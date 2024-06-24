@@ -34,4 +34,4 @@ In many cases, we can assume the user is on Mac or Linux. Since AI and VR / imme
 
 1. Use the Wiki for ephemeral or developing information
 2. Contribute to source code if scripts are tested and known to work
-3. Contribute to source code as text files for man pages or useful searchable facts someone may want to stor locally
+3. Contribute to source code as text files are vetted, useful and good for searchable dev content
