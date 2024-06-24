@@ -31,3 +31,7 @@ In many cases, we can assume the user is on Mac or Linux. Since AI and VR / imme
 * All contributions must be tested
 * Outdated outlines will be marked as expired
 * No guessing, only proven and extensively tested scripts allowed
+
+1. Use the Wiki for ephemeral or developing information
+2. Contribute to source code if scripts are tested and known to work
+3. Contribute to source code as text files for man pages or useful searchable facts someone may want to stor locally
